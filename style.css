@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+
+}
+body {
+    font-family: 'Source Sans Pro' , sans-serif;
+    background: pink;
+    color: white;
+
+}
+
+img {
+    width: 100%;
+  }
+  .pic{
+      float : right;
+  }
+  .clear{
+      clear: both;
+  }
